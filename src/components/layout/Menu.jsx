@@ -9,7 +9,7 @@ const Menu = props => (
     <aside className="Menu">
         <nav>
             <ul>
-                <li>
+            <li>
                     <Link to="/">Início</Link>
                 </li>
                 <li>
@@ -22,6 +22,7 @@ const Menu = props => (
                 <li>
                     <Link to="/about">Sobre</Link>
                 </li>
+                
             </ul>
         </nav>
     </aside>
